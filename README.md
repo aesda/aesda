@@ -4,7 +4,7 @@ Welcome to my GitHub space! Here's where the magic happens! ✨
 
 ## 🚀 About Me
 
-I'm Sangita Rai, a coder and explorer based in Sydney. Outside the terminal, I love singing and ☕ sipping on a cup of coffee.
+I'm Sangita Rai, a coder and explorer based in Sydney. Outside the terminal, I love singing and having coffee.
 
 ## 🌟 Projects
 
