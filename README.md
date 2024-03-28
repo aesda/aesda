@@ -21,7 +21,7 @@ Explore the galaxies of my current projects:
    - Technologies: List the technologies, languages, and frameworks used.
    - [Link to Project 2]
 
-Feel free to open issues, contribute, and star ⭐ the repos if you find them interesting.
+Feel free to star ⭐ the repos if you find them interesting.
 
 ## 📬 Contact
 
